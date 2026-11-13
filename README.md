@@ -1,6 +1,6 @@
 # Prism OS — Public Beta
 
-**Prism OS is not open source.** This repository is only for public beta builds and release downloads; no source code is published here.
+**Prism OS is not open source.** This repository is only for public beta builds and release downloads.
 
 ## Download
 
@@ -11,7 +11,7 @@ Each release includes the bundled Prism OS APK, plus optional separate apps for 
 ## Install
 
 - Android 10 or newer.
-- Sideload the APK; you may need to allow installs from your browser or file manager.
+- Sideload the APK; you may need to allow installs from your browser or file manager.   
 - Installed copies can update from **Settings → Updates**.
 - Beta builds can change or break things. Back up anything important first.
 
@@ -20,7 +20,3 @@ Each release includes the bundled Prism OS APK, plus optional separate apps for 
 Join the Discord for announcements, support, and beta updates:
 
 **https://discord.gg/hSev8GUS9C**
-
-## Source
-
-The Prism OS source code is private. This repository contains release builds only.
